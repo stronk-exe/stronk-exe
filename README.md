@@ -1,4 +1,7 @@
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&email=hide&login=ael-asri)](https://github.com/mohouyizme/1337-readme)\
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jerv-exe&theme=chartreuse-dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jerv-exe&theme=chartreuse-dark&show_icons=true)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerv-exe&layout=compact&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
