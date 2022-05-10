@@ -1,6 +1,6 @@
 --------------------------------------------------------------------------
 <p align="center">
-  <img alt="stronk-exe's bg" src="https://user-images.githubusercontent.com/94312066/154680124-69daff5d-4778-49f9-a60c-a871d3cbf793.gif" />
+  <img alt="stronk-exe's bg" src="https://user-images.githubusercontent.com/94312066/167724206-0d4bc649-83ed-4c08-8908-67f0532ef07b.gif" />
 </p>
 
 ---------------
